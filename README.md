@@ -1,7 +1,7 @@
 - :dragon: Hi, I’m Maryna Peshko (she/her)
   I will edit it
   
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C programming and Shell
 - ⚡ Fun fact: I like video game Fortnite.
 
 <!---
