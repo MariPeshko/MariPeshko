@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maryna Peshko aka @MariPeshko (she/her)
+- UA Hi, I’m Maryna Peshko (she/her)
   I will edit it
   
 - 🌱 I’m currently learning ...
