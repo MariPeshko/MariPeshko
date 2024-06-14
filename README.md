@@ -1,4 +1,4 @@
-- 🇺🇦 Hi, I’m Maryna Peshko (she/her)
+- :🇺🇦 Hi, I’m Maryna Peshko (she/her)
   I will edit it
   
 - 🌱 I’m currently learning ...
