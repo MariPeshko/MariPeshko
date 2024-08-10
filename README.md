@@ -1,8 +1,7 @@
 - :dragon: Hi, I’m Maryna Peshko (she/her)
-  I will edit it
   
 - 🌱 I’m currently learning C programming and Unix-system
-- ⚡ Fun fact: I like video game Fortnite.
+- ⚡ Fun fact: I like the video game Fortnite.
 
 <!---
 MariPeshko/MariPeshko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
