@@ -1,6 +1,6 @@
 - :dragon: Hi, I’m Maryna Peshko (she/her)
   
-- 🌱 I’m currently learning C programming and Unix-system
+- 🌱 I’m currently learning C programming, Unix-system and system administration.
 - ⚡ Fun fact: I like the video game Fortnite.
 
 <!---
